@@ -22,8 +22,8 @@ export default function Login() {
             Entrar
           </button>
           <div className={styles.links}>
-            <a href="">Não tenho conta?</a>
-            <a href="">Cadatre AQUI!</a>
+            <a href="">Não tem conta?</a>
+            <a href="">Cadastre AQUI!</a>
           </div>
         </form>
       </div>
